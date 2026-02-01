@@ -9,8 +9,8 @@ This repository contains a **Reinforcement Learning push task** implemented in *
 
 You must have the following installed:
 
-- **Isaac Sim**
-- **IsaacLab**
+- **Isaac Sim 5.1**
+- **IsaacLab v2.3.X**
 
 ### Recommended Folder Structure
 
